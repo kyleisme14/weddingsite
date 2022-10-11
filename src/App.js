@@ -5,11 +5,8 @@ function App() {
   return (
     <div className="App">
       <div className='bingo'>
-        <img src={img} />
+        <img src={img} alt="background img"/>
             </div>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
           href="https://www.instagram.com/hotweil/?hl=en"
@@ -20,7 +17,9 @@ function App() {
         </a>
   
       <header className="App-header">
-
+        <h2> Kyle and Ella</h2>
+        <h3>October 14 2023</h3>
+        <h3>LA</h3>
       </header>
     </div>
   );
