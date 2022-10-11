@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ellakyleforever.com/static/css/main.073c9b0a.css",
-    "main.js": "/ellakyleforever.com/static/js/main.c3f054d7.js",
+    "main.css": "/ellakyleforever.com/static/css/main.3860dc98.css",
+    "main.js": "/ellakyleforever.com/static/js/main.912ed7bc.js",
     "static/js/787.72848fd0.chunk.js": "/ellakyleforever.com/static/js/787.72848fd0.chunk.js",
-    "static/media/logo.svg": "/ellakyleforever.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/IMG_1754.jpg": "/ellakyleforever.com/static/media/IMG_1754.d9c83b0a68f541c27ebc.jpg",
     "index.html": "/ellakyleforever.com/index.html",
-    "main.073c9b0a.css.map": "/ellakyleforever.com/static/css/main.073c9b0a.css.map",
-    "main.c3f054d7.js.map": "/ellakyleforever.com/static/js/main.c3f054d7.js.map",
+    "main.3860dc98.css.map": "/ellakyleforever.com/static/css/main.3860dc98.css.map",
+    "main.912ed7bc.js.map": "/ellakyleforever.com/static/js/main.912ed7bc.js.map",
     "787.72848fd0.chunk.js.map": "/ellakyleforever.com/static/js/787.72848fd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c3f054d7.js"
+    "static/css/main.3860dc98.css",
+    "static/js/main.912ed7bc.js"
   ]
 }
