@@ -1,5 +1,7 @@
 import img from './components/IMG_1754.jpg';
 import './App.css';
+import { Textfit } from 'react-textfit';
+
 
 function App() {
   return (
@@ -17,9 +19,10 @@ function App() {
         </a>
   
       <header className="App-header">
-        <h2> Kyle and Ella</h2>
+        <Textfit><h2> Kyle and Ella</h2>
         <h3>October 14 2023</h3>
         <h3>LA</h3>
+        </Textfit>
       </header>
     </div>
   );
